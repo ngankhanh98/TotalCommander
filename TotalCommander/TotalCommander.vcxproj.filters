@@ -55,4 +55,7 @@
   <ItemGroup>
     <Manifest Include="App.manifest" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
 </Project>
